@@ -2,4 +2,4 @@
 
 ## Overview
 - [What is One Electron Problem?](./doc/problem-overview.md)
-- [List of potentials](./doc/potential-list.md)
+- [List of well-known potentials](./doc/potential-list.md)
