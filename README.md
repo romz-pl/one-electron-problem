@@ -1,2 +1,3 @@
-# one-electron-problem
-One electron Scrodinger equation problem
+# One Electron Problem
+
+One electron Schrodinger equation problem
