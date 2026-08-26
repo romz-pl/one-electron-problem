@@ -5,4 +5,5 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 ## Overview
 - [What is One Electron Problem?](./doc/problem-overview.md)
 - [What is Effective Potential Problem?](./doc/effective-potential-problem.md)
+- [One Electron Problem and Molecular Properties](./doc/molecular-properties.md)
 - [List of well-known potentials](./doc/potential-list.md)
