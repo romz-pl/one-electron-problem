@@ -11,7 +11,8 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 
 
 ## Eigenvalues and eigenfunctions for selected potentials
-- [Soft-core Coulomb potential](./doc/potential-soft-core-coulomb.md)
-- [Manning–Rosen potential](./doc/potential-manning–rosen.md)
-- [Hulthén potential](./doc/potential-hulthen.md)
 - [Exponential potential](./doc/potential-exponential.md)
+- [Gaussian potential](./doc/potential-gaussian.md)
+- [Hulthén potential](./doc/potential-hulthen.md)
+- [Manning–Rosen potential](./doc/potential-manning–rosen.md)
+- [Soft-Core Coulomb potential](./doc/potential-soft-core-coulomb.md)
