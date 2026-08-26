@@ -1,6 +1,6 @@
 # Well-Known Potentials in the One-Electron Problem
 
-This is a survey of the standard potentials $V(\mathbf{r})$ (or $V(x)$) that appear in the single-particle (one-electron) Schrödinger equation across textbook quantum mechanics, atomic physics, solid-state physics, and quantum chemistry.
+This is a survey of the standard potentials $V(\mathbf{r})$ (or $V(x)$ ) that appear in the single-particle (one-electron) Schrödinger equation across textbook quantum mechanics, atomic physics, solid-state physics, and quantum chemistry.
 
 $$
 -\frac{\hbar^2}{2m}\nabla^2\psi + V(\mathbf{r})\psi = E\psi
