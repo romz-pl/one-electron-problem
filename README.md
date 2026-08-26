@@ -14,3 +14,4 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Soft-core Coulomb potential](./doc/potential-soft-core-coulomb.md)
 - [Manning–Rosen potential](./doc/potential-manning–rosen.md)
 - [Hulthén potential](./doc/potential-hulthen.md)
+- [Exponential potential](./doc/potential-exponential.md)
