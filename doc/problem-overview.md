@@ -2,7 +2,7 @@
 
 ## 1. Introduction and Scope
 
-The "one-electron problem" refers to the quantum-mechanical treatment of a single electron bound to a fixed (or nearly fixed) positively charged nucleus, most fundamentally the hydrogen atom, but generalized to hydrogenic (hydrogen-like) ions such as He$^+$, Li$^{2+}$, and more generally any ion with a single remaining electron and nuclear charge $Ze$. This is one of the few problems in quantum mechanics that is exactly solvable in closed analytic form, and it plays a foundational role because:
+The "one-electron problem" refers to the quantum-mechanical treatment of a single electron bound to a fixed (or nearly fixed) positively charged nucleus, most fundamentally the hydrogen atom, but generalized to hydrogenic (hydrogen-like) ions such as $\text{He}^+$, $\text{Li}^{2+}$, and more generally any ion with a single remaining electron and nuclear charge $Ze$. This is one of the few problems in quantum mechanics that is exactly solvable in closed analytic form, and it plays a foundational role because:
 
 - It is the simplest realistic atomic system, and its solution underlies the qualitative structure of the entire periodic table via the orbital approximation.
 - It provides the quantum numbers ($n$, $\ell$, $m$, spin) and the notion of atomic orbitals used throughout chemistry and physics.
