@@ -8,3 +8,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [One Electron Problem and Molecular Properties](./doc/molecular-properties.md)
 - [Mean-Field Methods in Quantum Chemistry](./doc/mean-field-methods.md)
 - [List of well-known potentials](./doc/potential-list.md)
+
+
+## Eigenvalues and eigenfunctions
+- [Soft-core Coulomb potential](./doc/potential-soft-core-coulomb.md)
