@@ -1,4 +1,4 @@
-# One Electron Problem in Quantum Mechanics
+# One Electron Problem in Quantum Physics
 
 The one-electron problem in quantum mechanics involves solving the Schrödinger equation for a single electron moving under the influence of a potential.
 
@@ -10,7 +10,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [List of well-known potentials](./doc/potential-list.md)
 
 
-## Eigenvalues and eigenfunctions for selected potentials
+## Eigenvalues and Eigenfunctions for Selected Potentials
 - [Anharmonic quartic oscillator potential](./doc/potential-anharmonic-quartic-oscillator.md)
 - [Eckart potential](./doc/potential-eckart.md)
 - [Exponential potential](./doc/potential-exponential.md)
@@ -28,3 +28,5 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Triangular potential](./doc/potential-triangular.md)
 - [Woods–Saxon potential](./doc/potential-woods–saxon.md)
 - [Yukawa potential](./doc/potential-yukawa.md)
+
+## Applications of Selected Potentials in Quantum Physics
