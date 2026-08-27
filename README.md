@@ -31,6 +31,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Yukawa potential](./doc/potential-yukawa.md)
 
 ## Applications of Selected Potentials in Theoretical Physics
+- Hellmann potential
 - Hulthén potential
 - Gaussian potential
 - Kratzer potential
