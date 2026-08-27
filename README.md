@@ -11,6 +11,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 
 
 ## Eigenvalues and eigenfunctions for selected potentials
+- [Anharmonic quartic oscillator potential](./doc/potential-anharmonic-quartic-oscillator.md)
 - [Exponential potential](./doc/potential-exponential.md)
 - [Gaussian potential](./doc/potential-gaussian.md)
 - [Hulthén potential](./doc/potential-hulthen.md)
