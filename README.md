@@ -30,3 +30,8 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Yukawa potential](./doc/potential-yukawa.md)
 
 ## Applications of Selected Potentials in Quantum Physics
+- Hulthén potential
+- Gaussian potential
+- Soft-Core Coulomb potential
+- Woods–Saxon potential
+- Yukawa potential
