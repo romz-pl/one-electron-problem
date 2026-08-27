@@ -101,9 +101,11 @@ These methods trade exactness in $\ell$ for closed-form (or near closed-form) ei
 ### 4.1 Nikiforov–Uvarov (NU) method
 
 The NU method reduces a generalized hypergeometric-type second-order ODE,
+
 $$
 u'' + \frac{\tilde\tau(s)}{\sigma(s)}u' + \frac{\tilde\sigma(s)}{\sigma^2(s)}u = 0,
 $$
+
 to a form solvable via Rodrigues-type polynomial solutions (classical orthogonal polynomials — here, Jacobi polynomials, since the natural variable transformation for WS-type exponentials is $s = 1/(1+qe^{x})$ or $s=-e^{x}$, giving Jacobi-polynomial eigenfunctions). Applied to the WS problem this became, from the mid-2000s, probably the single most productive technique in the literature:
 
 - **Berkdemir, Berkdemir & Sever (2005–2006)** first obtained bound-state energies and Jacobi-polynomial eigenfunctions for the *generalized* Woods–Saxon (GWS) potential via NU, for $\ell = 0$ exactly and $\ell \neq 0$ approximately, later issuing an erratum after an inconsistency was found for the $\ell \neq 0$ case (see §2.3).
