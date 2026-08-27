@@ -15,6 +15,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Eckart potential](./doc/potential-eckart.md)
 - [Exponential potential](./doc/potential-exponential.md)
 - [Gaussian potential](./doc/potential-gaussian.md)
+- [Hellmann potential](./doc/potential-hellmann.md)
 - [Hulthén potential](./doc/potential-hulthen.md)
 - [Kratzer potential](./doc/potential-kratzer.md)
 - [Linear potential](./doc/potential-linear.md)
@@ -32,6 +33,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 ## Applications of Selected Potentials in Theoretical Physics
 - Hulthén potential
 - Gaussian potential
+- Kratzer potential
 - Soft-Core Coulomb potential
 - Triangular Potential
 - Woods–Saxon potential
