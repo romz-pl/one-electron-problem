@@ -14,6 +14,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Exponential potential](./doc/potential-exponential.md)
 - [Gaussian potential](./doc/potential-gaussian.md)
 - [Hulthén potential](./doc/potential-hulthen.md)
+- [Linear potential](./doc/potential-linear.md)
 - [Manning–Rosen potential](./doc/potential-manning–rosen.md)
 - [Morse potential](./doc/potential-morse.md)
 - [Pöschl–Teller potential](./doc/potential-poschl–teller.md)
