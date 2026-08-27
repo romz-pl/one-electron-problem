@@ -29,7 +29,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Woods–Saxon potential](./doc/potential-woods–saxon.md)
 - [Yukawa potential](./doc/potential-yukawa.md)
 
-## Applications of Selected Potentials in Quantum Physics
+## Applications of Selected Potentials in Theoretical Physics
 - Hulthén potential
 - Gaussian potential
 - Soft-Core Coulomb potential
