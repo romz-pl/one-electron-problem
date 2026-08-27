@@ -33,5 +33,6 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - Hulthén potential
 - Gaussian potential
 - Soft-Core Coulomb potential
+- Triangular Potential
 - Woods–Saxon potential
 - Yukawa potential
