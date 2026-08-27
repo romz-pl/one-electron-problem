@@ -21,6 +21,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Morse potential](./doc/potential-morse.md)
 - [Pöschl–Teller potential](./doc/potential-poschl–teller.md)
 - [Quartic double well potential](./doc/potential-quartic-double-well.md)
+- [Rosen–Morse potential](./doc/potential-rosen-morse.md)
 - [Sextic oscillator potential](./doc/potential-sextic-oscillator.md)
 - [Soft-Core Coulomb potential](./doc/potential-soft-core-coulomb.md)
 - [Triangular potential](./doc/potential-triangular.md)
