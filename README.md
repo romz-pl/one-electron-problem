@@ -72,7 +72,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 
 ## Applications of Selected Potentials in Physics and Chemistry
 - [Eckart potential](./doc/applications-eckart.md)
-- Exponential potential
+- [Exponential potential](./doc/applications-exponential.md)
 - [Hellmann potential](./doc/applications-hellmann.md)
 - [Hulthén potential](./doc/applications-hulthen.md)
 - [Gaussian potential](./doc/applications-gaussian.md)
