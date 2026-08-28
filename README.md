@@ -79,4 +79,4 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - Soft-Core Coulomb potential
 - Triangular Potential
 - Woods–Saxon potential
-- Yukawa potential
+- [Yukawa potential](./doc/applications-yukawa.md)
