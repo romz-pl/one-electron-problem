@@ -72,7 +72,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 
 ## Applications of Selected Potentials in Physics and Chemistry
 - [Hellmann potential](./doc/applications-hellmann.md)
-- Hulthén potential
+- [Hulthén potential](./doc/applications-hulthen.md)
 - [Gaussian potential](./doc/applications-gaussian.md)
 - [Kratzer potential](./doc/applications-kratzer.md)
 - Ring-shaped potential
