@@ -71,10 +71,13 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Yukawa potential](./doc/potential-yukawa.md)
 
 ## Applications of Selected Potentials in Physics and Chemistry
+- Eckart potential
+- Exponential potential
 - [Hellmann potential](./doc/applications-hellmann.md)
 - [Hulthén potential](./doc/applications-hulthen.md)
 - [Gaussian potential](./doc/applications-gaussian.md)
 - [Kratzer potential](./doc/applications-kratzer.md)
+- Morse potential
 - Ring-shaped potential
 - [Soft-Core Coulomb potential](./doc/applications-soft-core-coulomb.md)
 - Triangular Potential
