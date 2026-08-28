@@ -80,6 +80,6 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Morse potential](./doc/applications-morse.md)
 - Ring-shaped potential
 - [Soft-Core Coulomb potential](./doc/applications-soft-core-coulomb.md)
-- Triangular Potential
+- [Triangular Potential](./doc/applications-triangular.md)
 - [Woods–Saxon potential](./doc/applications-woods–saxon.md)
 - [Yukawa potential](./doc/applications-yukawa.md)
