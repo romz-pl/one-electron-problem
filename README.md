@@ -76,7 +76,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - Gaussian potential
 - Kratzer potential
 - Ring-shaped potential
-- Soft-Core Coulomb potential
+- [Soft-Core Coulomb potential](./doc/applications-soft-core-coulomb.md)
 - Triangular Potential
 - Woods–Saxon potential
 - [Yukawa potential](./doc/applications-yukawa.md)
