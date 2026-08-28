@@ -78,7 +78,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Gaussian potential](./doc/applications-gaussian.md)
 - [Kratzer potential](./doc/applications-kratzer.md)
 - [Morse potential](./doc/applications-morse.md)
-- [Quartic double well potential]](./doc/applications-quartic-double-well.md)
+- [Quartic double well potential](./doc/applications-quartic-double-well.md)
 - [Ring-shaped potential](./doc/applications-ring-shaped.md)
 - [Soft-Core Coulomb potential](./doc/applications-soft-core-coulomb.md)
 - [Triangular Potential](./doc/applications-triangular.md)
