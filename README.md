@@ -14,7 +14,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Anharmonic quartic oscillator potential](./doc/potential-anharmonic-quartic-oscillator.md)
 - Buckingham potential
 - Cornell potential
-- Coulomb potential
+- [Coulomb potential](./doc/potential-coulomb.md)
 - Coulomb + dipole potential
 - Coulomb + Gaussian core correction potential
 - Coulomb + Yukawa potential
