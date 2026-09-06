@@ -87,5 +87,6 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Yukawa potential](./doc/applications-yukawa.md)
 
 ## Applications of Eigenvalues of Selected Potentials
+- [Soft-Core Coulomb potential](./doc/app-eigen-soft-core-coulomb.md)
 - [Woods–Saxon potential](./doc/app-eigen-woods–saxon.md)
 - [Yukawa potential](./doc/app-eigen-yukawa.md)
