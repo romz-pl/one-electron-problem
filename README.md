@@ -87,6 +87,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Yukawa potential](./doc/applications-yukawa.md)
 
 ## Applications of Eigenvalues of Selected Potentials
+- [Eckart potential](./doc/app-eigen-eckart.md)
 - [Exponential potential](./doc/app-eigen-exponential.md)
 - [Gaussian potential](./doc/app-eigen-gaussian.md)
 - [Morse potential](./doc/app-eigen-morse.md)
