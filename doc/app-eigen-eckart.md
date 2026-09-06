@@ -5,15 +5,19 @@
 The Eckart potential, introduced by Carl Eckart in 1930 in the context of electron penetration through a potential barrier, is one of the classic exactly (or quasi-exactly) solvable potentials of quantum mechanics. Two related forms are used in the literature:
 
 - **The Eckart barrier** (open, scattering problem), typically written as
+
 $$
 V(x) = \frac{A e^{x/a}}{1+e^{x/a}} + \frac{B e^{x/a}}{\left(1+e^{x/a}\right)^{2}},
 $$
+
 or in the symmetric case $V(x) = V_0 \,\mathrm{sech}^2(x/a)$.
 
 - **The Eckart well/potential** (bound-state problem), typically written in hyperbolic form as
+
 $$
 V(r) = A(A-1)\,\mathrm{csch}^2 r - 2B\,\coth r, \qquad 0<r<\infty,
 $$
+
 or, in molecular-physics form, as a combination of $\mathrm{sech}^2$ and $\tanh$ terms used to model diatomic interaction curves.
 
 Because the corresponding Schrödinger, Klein–Gordon, and Dirac equations can be reduced to hypergeometric-type or Jacobi-polynomial equations, the Eckart potential admits closed-form (or accurately approximate, once an approximation for the centrifugal term is introduced) energy eigenvalues $E_n$ and eigenfunctions $\psi_n$. This analytic tractability has made it a recurring workhorse across several distinct areas of physics and chemistry. This review organizes those applications into major thematic groups, summarizing what the eigenvalues/eigenfunctions are used for in each, and lists representative publications for each group.
@@ -44,9 +48,11 @@ The bound-state (well) form of the Eckart potential is used as an anharmonic mod
 ## 3. Thermodynamic Properties of Molecular/Quantum Systems
 
 Once the Eckart-potential energy spectrum $E_n$ is known, the vibrational partition function
+
 $$
 Z(\beta) = \sum_{n=0}^{n_{\max}} e^{-\beta E_n}
 $$
+
 (often evaluated in closed form via the Poisson summation formula or an $SO(2,1)$ algebraic treatment) allows derivation of standard thermodynamic quantities.
 
 **How the eigenvalues are used:**
