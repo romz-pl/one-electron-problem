@@ -85,3 +85,6 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Triangular Potential](./doc/applications-triangular.md)
 - [Woods–Saxon potential](./doc/applications-woods–saxon.md)
 - [Yukawa potential](./doc/applications-yukawa.md)
+
+## Applications of Eigenvalues of Selected Potentials
+[Yukawa potential](./doc/app-eigen-yukawa.md)
