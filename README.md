@@ -96,6 +96,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Yukawa potential](./doc/app-eigen-yukawa.md)
 
 ## Numerical Values of Eigenvalues
+- [Gaussian potential](./doc/numerical-gaussian.md)
 - [Morse potential](./doc/numerical-morse.md)
 - [Soft-Core Coulomb potential](./doc/numerical-soft-core-coulomb.md)
 - [Woods–Saxon potential](./doc/numerical-woods–saxon.md)
