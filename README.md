@@ -10,7 +10,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [List of well-known potentials](./doc/potential-list.md)
 
 
-## Eigenvalues and Eigenfunctions for Selected Potentials
+## Algorithms for searching Eigenvalues and Eigenfunctions
 - [Anharmonic quartic oscillator potential](./doc/potential-anharmonic-quartic-oscillator.md)
 - Buckingham potential
 - Cornell potential
@@ -70,7 +70,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Woods–Saxon potential](./doc/potential-woods–saxon.md)
 - [Yukawa potential](./doc/potential-yukawa.md)
 
-## Applications of Selected Potentials in Physics and Chemistry
+## Applications in Physics and Chemistry
 - [Coulomb potential](./doc/applications-coulomb.md)
 - [Eckart potential](./doc/applications-eckart.md)
 - [Exponential potential](./doc/applications-exponential.md)
@@ -86,7 +86,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Woods–Saxon potential](./doc/applications-woods–saxon.md)
 - [Yukawa potential](./doc/applications-yukawa.md)
 
-## Applications of Eigenvalues of Selected Potentials
+## Applications of Eigenvalues
 - [Eckart potential](./doc/app-eigen-eckart.md)
 - [Exponential potential](./doc/app-eigen-exponential.md)
 - [Gaussian potential](./doc/app-eigen-gaussian.md)
@@ -94,3 +94,7 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Soft-Core Coulomb potential](./doc/app-eigen-soft-core-coulomb.md)
 - [Woods–Saxon potential](./doc/app-eigen-woods–saxon.md)
 - [Yukawa potential](./doc/app-eigen-yukawa.md)
+
+## Numerical Values of Eigenvalues
+- [Soft-Core Coulomb potential](./doc/numerical-soft-core-coulomb.md)
+
