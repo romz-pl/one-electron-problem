@@ -103,3 +103,5 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 - [Yukawa potential](./doc/numerical-yukawa.md)
 
 
+## Quantum dots
+- [What is quantum dot?](./doc/dot-what-is-it.md)
