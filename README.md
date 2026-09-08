@@ -105,3 +105,4 @@ The one-electron problem in quantum mechanics involves solving the Schrödinger 
 
 ## Quantum dots
 - [What is quantum dot?](./doc/dot-what-is-it.md)
+- [Application of the spherical potential](./doc/dot-spherical-potential.md)
